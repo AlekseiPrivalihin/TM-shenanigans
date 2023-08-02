@@ -10,3 +10,6 @@ https://docs.google.com/spreadsheets/d/1brxB68YMwloBXtp7PpK4qYVDVVK2-kC7iaatITSx
 
 Google Colab (analysis):
 https://colab.research.google.com/drive/1Noc-1u3reIR-PTF1Ikgba28d0OAJJYqG?usp=sharing
+
+Google Colab x2 (absolute 'profit' instead of %):
+https://colab.research.google.com/drive/1L_qYeasGSVq6Uy5RDrvfVYyAduDgRQAt?usp=sharing
