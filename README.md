@@ -2,6 +2,7 @@
 Trying to play with some data from TransferMarkt for educational/recreational purposes
 
 Data collection performed via TM.py
+
 Analysis via TM.ipynb (also duplicated in Google Colab)
 
 Data in Google Sheets:
